@@ -1,4 +1,4 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "changelog": "- Notificação nativa do Windows para atualização do ChromeDriver\n- Janela CMD não abre mais ao iniciar o programa"
 }
