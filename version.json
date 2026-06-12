@@ -1,5 +1,5 @@
 {
-  "version": "1.3.7",
-  "changelog": "Melhorias de interface e responsividade",
-  "sha256": "3c3d7cdbd07e2fcbdc7d850a5e38bc37f6cfd72ac654f3a9fc7920a7bad71f8d"
+  "version": "1.3.8",
+  "changelog": "Melhorias no envio de conversas e interface",
+  "sha256": "86dac6579fb6da7bbd2611347b3bc3421023df227071013a6ff471c387b9de1e"
 }
