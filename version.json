@@ -1,5 +1,5 @@
 {
-  "version": "1.3.9",
-  "changelog": "Ritmo de warmup corrigido e respeitado; conversas via chat existente e Nova Conversa (sem /send, mais seguro)",
-  "sha256": "dc65599d306935724cfcd363373ee7f517784c721c4d3e3a52e95f54198e5fe4"
+  "version": "1.3.10",
+  "changelog": "Detecção automática do número ao adicionar canal corrigida",
+  "sha256": "af7ee803210246358797c36f3694840632cdd2cbd50d6445f4f1643b52a73c59"
 }
