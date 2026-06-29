@@ -1,5 +1,5 @@
 {
-  "version": "1.3.30",
-  "changelog": "Chrome/ChromeDriver agora morrem junto com o app (Job Object) — zero processos órfãos, mesmo em fechamento forçado.",
-  "sha256": "ec61a1174f142aae40a3a3f1d824cce79af8ad129dab28aa2bee29f6ece47497"
+  "version": "1.4.0",
+  "changelog": "Novo modelo de envio (abre contatos salvos sem /send), paginação rápida",
+  "sha256": "6b46347b4314bb1b7575d453133b849058d411f781a2b47a76501ef224b79263"
 }
