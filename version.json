@@ -1,5 +1,5 @@
 {
-  "version": "1.3.27",
+  "version": "1.3.28",
   "changelog": "Chrome/ChromeDriver agora morrem junto com o app (Job Object) — zero processos órfãos, mesmo em fechamento forçado.",
-  "sha256": "ed466966bc1958df2ae681c5d2c3cda8bc5eedbaeedd94599207c6dfb455c87d"
+  "sha256": "8cba01770aa6de3b1aad96cb8640e456ba5677de3ee0769dec107e0ead98b885"
 }
