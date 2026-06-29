@@ -1,5 +1,5 @@
 {
-  "version": "1.3.26",
-  "changelog": "Encerra Chrome/ChromeDriver órfãos no boot; instalador adiciona exclusão do antivírus e fecha o app antes de atualizar (corrige erro de arquivo em uso).",
-  "sha256": "ba42922473c4c840ba847f0bc90e4118703c3aa7c92a9d907e05abfa186f5379"
+  "version": "1.3.27",
+  "changelog": "Chrome/ChromeDriver agora morrem junto com o app (Job Object) — zero processos órfãos, mesmo em fechamento forçado.",
+  "sha256": "ed466966bc1958df2ae681c5d2c3cda8bc5eedbaeedd94599207c6dfb455c87d"
 }
