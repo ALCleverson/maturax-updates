@@ -1,5 +1,5 @@
 {
-  "version": "1.3.14",
+  "version": "1.3.15",
   "changelog": "Novo modelo de envio (Nova Conversa/Dialer antes do /send)",
-  "sha256": "86304f21c194cc6f1f5d02c96a9bfb30a5ceeae95a939faf4a47f17987b71c05"
+  "sha256": "5f9bfa814c564bfc3112ac8907cc1e83646ce0b18c6d0158ada9d3f298041411"
 }
