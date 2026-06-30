@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "changelog": "Novo modelo de envio (abre contatos salvos sem /send), paginação rápida",
-  "sha256": "6b46347b4314bb1b7575d453133b849058d411f781a2b47a76501ef224b79263"
+  "version": "1.4.1",
+  "changelog": "tempo de restrição lido do banner do WhatsApp (dias e horas)",
+  "sha256": "f71ae145503ec1315cdb93cfe942ed349946d749466e5e4faffb611b45a8a97d"
 }
