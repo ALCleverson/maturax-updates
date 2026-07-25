@@ -1,5 +1,5 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "changelog": "Tempo de restrição lido do popup do WhatsApp (ex.: 2 dias, 1 semana) em vez do bloqueio fixo de 8h.",
-  "sha256": "7ac65b7f20a168d55f8d36dabc632ed16a7d532ca552af4b3268f7b8c41a4a19"
+  "sha256": "dbb4abed5fe995f0bc22c099a74e113fe70c051e95828cde89fb20c929981fa1"
 }
